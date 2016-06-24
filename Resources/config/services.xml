@@ -60,7 +60,7 @@
 
         <service id="sylius.form.extension.collection"
                  class="%sylius.form.extension.collection.class%">
-            <tag name="form.type_extension" alias="collection" />
+            <tag name="form.type_extension" alias="collection" extended-type="Symfony\Component\Form\Extension\Core\Type\CollectionExtension" />
         </service>
 
         <service id="sylius.validator.enabled" class="%sylius.validator.enabled.class%">
