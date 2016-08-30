@@ -28,7 +28,7 @@
         "jms/serializer-bundle": "^0.13|^1.0",
         "sylius/resource": "dev-symfony_3_compatibility",
         "sylius/storage": "dev-symfony_3_compatibility",
-        "symfony/framework-bundle": "3.0.*",
+        "symfony/framework-bundle": "3.*",
         "white-october/pagerfanta-bundle": "^1.0",
         "willdurand/hateoas-bundle": "^0.4|^1.0",
         "winzou/state-machine-bundle": "*"
